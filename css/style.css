@@ -1,0 +1,29 @@
+h1 {
+    border: 6px double blue;
+    border-radius: 20px;
+    margin: 20px 10px 15px 20px;
+    background-color: black;
+    color: white;
+    padding: 30px 25px;
+}
+.test {
+    border: 8px double red;
+    width: 96px;
+    height: 96px;
+    background-color: blue;
+    margin: 30px 30px 30px 30px;
+}
+/* h2 {
+    border-top-color: red;
+    border-top-style: dotted;
+    border-top-width: 9px;
+    border-bottom-color: blue;
+    border-bottom-style: dashed;
+    border-bottom-width: 9px;
+    border-left-color: red;
+    border-left-style: solid;
+    border-left-width: 9px;
+    border-right-color: blue;
+    border-right-style: dotted;
+    border-right-width: 9px;
+} */
